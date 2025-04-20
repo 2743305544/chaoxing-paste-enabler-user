@@ -4,7 +4,6 @@
 // @version      1.0
 // @description  解除学习通作业中的粘贴限制，允许在作业答题区域正常粘贴内容
 // @author       Shi Yi
-// @match        *://*.chaoxing.com/*
 // @match        *://mooc1.chaoxing.com/mooc-ans/mooc2/work/dowork*
 // @match        *://mooc1-1.chaoxing.com/mooc-ans/mooc2/work/dowork*
 // @match        *://mooc1-2.chaoxing.com/mooc-ans/mooc2/work/dowork*
