@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         学习通粘贴限制解除
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  解除学习通作业中的粘贴限制，允许在作业答题区域正常粘贴内容
 // @author       Shi Yi
 // @match        *://mooc1.chaoxing.com/mooc-ans/mooc2/work/dowork*
