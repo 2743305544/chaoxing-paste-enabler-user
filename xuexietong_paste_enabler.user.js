@@ -10,6 +10,7 @@
 // @match        *://mooc1-2.chaoxing.com/mooc-ans/mooc2/work/dowork*
 // @grant        none
 // @run-at       document-start
+// @license MIT
 // ==/UserScript==
 
 (function() {
